@@ -1,0 +1,2 @@
+C:\Users\nik.adhaduk\source\repos\OrderManagement\OrderManagement.Data\obj\Debug\OrderManagement.Data.csproj.AssemblyReference.cache
+C:\Users\nik.adhaduk\source\repos\OrderManagement\OrderManagement.Data\obj\Debug\OrderManagement.Data.csproj.CoreCompileInputs.cache
